@@ -1,0 +1,22 @@
+{
+  "name": "test-typescript-debug-main",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexrr2iggs/test-typescript-debug-main.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexrr2iggs/test-typescript-debug-main/issues"
+  },
+  "homepage": "https://github.com/alexrr2iggs/test-typescript-debug-main#readme",
+  "dependencies": {
+    "@alexrr2iggs/test-typescript-debug-dependency": "^1.0.2"
+  }
+}
